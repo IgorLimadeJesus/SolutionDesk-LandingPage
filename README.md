@@ -1,6 +1,6 @@
 ## Como rodar
 
-1. Instale as dependências:
+1. Instale as dependências (Atenção, necessario o node instalado):
 ```bash
 npm install
 ```
