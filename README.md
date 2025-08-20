@@ -1,7 +1,3 @@
-# SolutionDesk — Landing Page (Vite + React + Tailwind)
-
-Projeto pronto para rodar localmente.
-
 ## Como rodar
 
 1. Instale as dependências:
