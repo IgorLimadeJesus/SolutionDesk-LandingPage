@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+
+.gradient-ring {
+  background: radial-gradient(60% 60% at 50% 30%, rgba(139,61,255,0.25) 0%, rgba(139,61,255,0.05) 40%, transparent 70%);
+}
